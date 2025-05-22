@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @fletch3555
+/src/backend/database.py      @fletch3555
+/src/backend/routers/auth.py  @fletch3555
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @fletch3555
